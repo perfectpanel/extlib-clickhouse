@@ -22,7 +22,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require bashkarev/clickhouse
+composer require perfectpanel/extlib-clickhouse
 ```
 
 
